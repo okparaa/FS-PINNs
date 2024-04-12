@@ -14,6 +14,7 @@ import torch.optim as optim
 from copy import deepcopy
 from torch.autograd import Variable
 import matplotlib.pyplot as plt
+%matplotlib inline
 import time
 
 import os
